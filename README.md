@@ -21,8 +21,8 @@ Beyond technology, I enjoy exploring **Engineering Economics**, analyzing case s
 ## 🛠️ My Skills  
 
 ### 💻 **Programming Languages**  
-|      |            | Proficiency |
-|------|------------|-------------|
+|            |            | Proficiency |
+|------------|------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100"> | **C**         | Almost know all the basic and fundemental knowledge of problem-solving and system-level programming.I started my programming with this language |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="100" height="100"> | **PHP**      | Proficient in web development, specializing in backend and database work. Most of my backend logic is developed using PHP. |
 | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="70" height="70"> | **Java**       | I have the strong foundation in object-oriented programming |
