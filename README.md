@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm MD Aurongojeb Lishad</h1>
-<h3 align="center">🌟 BSc Student | Web Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">🌟 BSc Eng Student | Web Developer | Machine Learning Enthusiast</h3>
 <p align="center">
     📚 Currently pursuing BSc in Computer Science at <b>North South University, Bangladesh</b>.
 </p>
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me  🔭
 
 Hi there! 👋 I'm passionate about leveraging technology to solve real-world problems. My interests lie in:
 
@@ -23,7 +23,7 @@ Beyond technology, I enjoy exploring **Engineering Economics**, analyzing case s
 ### 💻 **Programming Languages**  
 |            |            | Proficiency |
 |------------|-------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100"> | **C**         | Almost know all the basic and fundemental knowledge of problem-solving and system-level programming.I started my programming with this language |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="70"> | **C**         | Almost know all the basic and fundemental knowledge of problem-solving and system-level programming.I started my programming with this language |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="100" height="100"> | **PHP**      | Proficient in web development, specializing in backend and database work. Most of my backend logic is developed using PHP. |
 | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="70" height="70"> | **Java**       | I have the strong foundation in object-oriented programming |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="70" height="70"> | **Python**    | I have the basic knowledge of python for machine learning research and exploratory data analysis. |
@@ -72,21 +72,24 @@ Beyond technology, I enjoy exploring **Engineering Economics**, analyzing case s
 
 ---
 
-## 📚 Featured Projects  
+## 📚 My Featured Projects  
 
-### 📘 **Library Management System**  
+### 📘 **Automated Library Management System**  
 An advanced library platform with:  
-- 📖 **Hybrid Book Recommendations** based on borrowing and search history.  
-- 📕 **Pre-booking Upcoming Books** with a seamless user experience.  
-- 📗 **Book Reservation and Borrowing** system with automated logic.  
+- 📖 **Hybrid Book Recommendations** based on borrowing and search history.
+- ⏰ **Real time Availability** of books.  
+- 📗 **Auto Return, Auto Borrowing & Book Reservation** system with automated logic.
+- 🚀 **Automatic Notification** system for due date, borrow history etc
+- 📕 **Pre-booking Upcoming Books** with a seamless user experience.   
 
-**Tech Stack:** PHP, MySQL, HTML, CSS  
-[🔗 Explore the Repository](https://github.com/your-library-system-repo)  
+**Tech Stack:** PHP, MySQL, HTML, CSS , JS.
+[🔗 Explore the Repository](https://github.com/Lishad-02/VOID)  
 
-### 🍳 **Recipe Management System**  
-A platform to manage, view, and organize recipes efficiently.  
-**Tech Stack:** PHP, HTML, CSS  
-[🔗 Explore the Repository](https://github.com/your-recipe-system-repo)  
+### 🍳 **Software Engineering Project**  
+This project follows best practices in software development, using the *MVC* architecture, consistent *coding standards*, and comprehensive *unit testing*. Task management is handled via *Trello, with communication through **Discord* and version control via *GitHub*. Documentation is provided for setup, usage, and API endpoints.  
+
+**Tech Stack:** PHP, HTML, CSS, PHPUnit, Doxygen, Trello, Discord.
+[🔗 Explore the Repository](https://github.com/Lishad-02/CSE327_Project/tree/Md_Aurongojeb_Lishad)  
 
 ---
 
@@ -94,10 +97,10 @@ A platform to manage, view, and organize recipes efficiently.
 
 | Platform         | Contact                                                                                      |
 |-------------------|----------------------------------------------------------------------------------------------|
-| **Email**         | [md.aurongojeb.lishad@example.com](mailto:md.aurongojeb.lishad@example.com) *(replace email)* |
-| **GitHub**        | [github.com/your-github-username](https://github.com/your-github-username)                   |
-| **LinkedIn**      | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)                         |
+| **Email**         | [aurongojeblishad@gmail.com](mailto:aurongojeblishad@gmail@example.com)                      |
+| **GitHub**        | [github.com/your-github-username](https://github.com/Lishad-02)                              |
+| **LinkedIn**      | [linkedin.com/in/your-profile](https://www.linkedin.com/in/aurongojeb-lishad-347851282/)     |
 
 ---
 
-⭐ **Thanks for visiting! Feel free to explore my repositories and drop a ⭐ if you like what you see!**
+⭐ **Thanks for visiting! Feel free to explore my repositories !**
