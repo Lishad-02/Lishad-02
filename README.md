@@ -24,7 +24,7 @@ Beyond technology, I enjoy exploring **Engineering Economics**, analyzing case s
 |      |            | Proficiency |
 |------|------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="70" height="50"> | **C**         | Almost know all the basic and fundemental knowledge of problem-solving and system-level programming.I started my programming with this language |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="70" height="70"> | **PHP**      | Proficient in web development, specializing in backend and database work. Most of my backend logic is developed using PHP. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50" height="50"> | **PHP**      | Proficient in web development, specializing in backend and database work. Most of my backend logic is developed using PHP. |
 | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="70" height="70"> | **Java**       | I have the strong foundation in object-oriented programming |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="70" height="70"> | **Python**    | I have the basic knowledge of python for machine learning research and exploratory data analysis. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="70" height="70"> | **HTML & CSS** | Know basic HTML and CSS for front-end work, along with some advanced CSS for better designs. |
