@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm MD Aurongojeb Lishad</h1>
-<h3 align="center">🌟 BSc Eng Student | Web Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">🌟 BSc Eng Student | AI Researcher</h3>
 <p align="center">
     📚 Currently pursuing BSc in Computer Science at <b>North South University, Bangladesh</b>.
 </p>
